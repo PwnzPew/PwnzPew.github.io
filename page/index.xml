@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Курсов проект</title>
+    <link>https://pwnzpew.github.io/page/</link>
+    <description>Recent content in Pages on Курсов проект</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Dec 2020 02:13:50 +0000</lastBuildDate><atom:link href="https://pwnzpew.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontakt</title>
+      <link>https://pwnzpew.github.io/page/contact/</link>
+      <pubDate>Tue, 22 Dec 2020 02:13:50 +0000</pubDate>
+      
+      <guid>https://pwnzpew.github.io/page/contact/</guid>
+      <description>Contact Dadadada</description>
+    </item>
+    
+    <item>
+      <title>Nauchi za men</title>
+      <link>https://pwnzpew.github.io/page/about/</link>
+      <pubDate>Tue, 22 Dec 2020 02:13:50 +0000</pubDate>
+      
+      <guid>https://pwnzpew.github.io/page/about/</guid>
+      <description>About Za men
+School Sledvam v SU, specialnost BIN</description>
+    </item>
+    
+  </channel>
+</rss>
